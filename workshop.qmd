@@ -20,13 +20,11 @@ conclusions in visually appealing dashboards.
 
 # Date & Location
 
-|                |
-|----------------|
-| 🗓️ 27 & 28 September, 2024 |
-| 🕘 9am -- 5 pm |
-| 📍 01CC Room 103 on 27 Sep and then 14SCO Room 163 on 28 Sep|
-
-
+|                                                              |
+|--------------------------------------------------------------|
+| 🗓️ 27 & 28 September, 2024                                   |
+| 🕘 9am -- 5 pm                                               |
+| 📍 01CC Room 103 on 27 Sep and then 14SCO Room 163 on 28 Sep |
 
 # Schedule
 
@@ -37,7 +35,8 @@ You can find the tentative schedule below. This is subject to change.
 
 |                |                                           |
 |----------------|-------------------------------------------|
-| 0900 -- 10:30  | Introduction to Dashboards                |
+| 08:30 -- 09:00 | Registration                              |
+| 09:00 -- 10:30 | Introduction to Dashboards                |
 | 10:30 -- 11:00 | Coffee break ☕️️                           |
 | 11:00 -- 12:30 | Dashboards Components                     |
 | 12:30 -- 13:30 | Lunch 🍕🥤                                |
@@ -47,35 +46,37 @@ You can find the tentative schedule below. This is subject to change.
 
 ## 28 Sep
 
-|                |                                           |
-|----------------|-------------------------------------------|
-| 0900 -- 10:30  | Introduction to Shiny                |
-| 10:30 -- 11:00 | Coffee break ☕️️                           |
-| 11:00 -- 12:30 | Reactive Programming                     |
-| 12:30 -- 13:30 | Lunch 🥤 🥪                               |
-| 13:30 -- 15:00 | Modern Uls with `bslib`                         |
-| 15:00 -- 15:30 | Coffee break 🍵                           |
-| 15:30 -- 17:00 | Theming and Deploying |
+|                |                         |
+|----------------|-------------------------|
+| 08:00 -- 09:00 | Registration            |
+| 09:00 -- 10:30 | Introduction to Shiny   |
+| 10:30 -- 11:00 | Coffee break ☕️️         |
+| 11:00 -- 12:30 | Reactive Programming    |
+| 12:30 -- 13:30 | Lunch 🥤 🥪             |
+| 13:30 -- 15:00 | Modern Uls with `bslib` |
+| 15:00 -- 15:30 | Coffee break 🍵         |
+| 15:30 -- 17:00 | Theming and Deploying   |
 :::
 
 # How to join
 
-For catering purposes, please register to the masterclass when you register
-for DataViz 2024:
+For catering purposes, please register to the masterclass when you
+register for DataViz 2024:
 <https://mqedu.qualtrics.com/jfe/form/SV_1TcpY3kDpGZJRno>.
 
-Materials will be shared with participants on 26 Sep. 
-
+Materials will be shared with participants on 26 Sep.
 
 # Software & Setup
 
-Prior to the masterclass, please check that you have the required software and setup any accounts you might need for publishing your dashboard! 
-
+Prior to the masterclass, please check that you have the required
+software and setup any accounts you might need for publishing your
+dashboard!
 
 ::: panel-tabset
 ## 27 Sep
 
-You will be able to follow along with this masterclass in `R` or in `Python`.
+You will be able to follow along with this masterclass in `R` or in
+`Python`.
 
 Please see the required software suite for each language below.
 
@@ -102,8 +103,15 @@ install.packages(pkg_list)
 
 -   [Python](https://www.python.org/downloads/): 3
 -   [Quarto](https://quarto.org/docs/download/): v1.5
--   [VS Code](https://code.visualstudio.com/download) as well as the [VS Code Quarto Extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) and [VS Code Jupyter Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
--   Packages: We recommend `pip install`ing the following packages. If you have a different preferred way of managing your environment, you’re welcomed to do so. Just make sure you have these packages installed in order to be able to follow along with the examples.
+-   [VS Code](https://code.visualstudio.com/download) as well as the [VS
+    Code Quarto
+    Extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto)
+    and [VS Code Jupyter
+    Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+-   Packages: We recommend `pip install`ing the following packages. If
+    you have a different preferred way of managing your environment,
+    you’re welcomed to do so. Just make sure you have these packages
+    installed in order to be able to follow along with the examples.
 
 ```         
 great_tables==0.10.0
@@ -115,15 +123,17 @@ plotnine==0.13.6
 
 ### Publishing accounts
 
-You do not need to publish your dashboard during the workshop, but it would be good practice!
+You do not need to publish your dashboard during the workshop, but it
+would be good practice!
 
-To publish your website you'll need an account on one of Quarto's publishing venues:
+To publish your website you'll need an account on one of Quarto's
+publishing venues:
 
 -   **(Recommended)** [Quarto Pub](https://quartopub.com/sign-up)
--   [GitHub](https://github.com) only **if you are already** a Git/GitHub user
+-   [GitHub](https://github.com) only **if you are already** a
+    Git/GitHub user
 
-## 28 Sep 
+## 28 Sep
 
 TBD
-
 :::
