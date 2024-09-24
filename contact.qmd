@@ -1,0 +1,32 @@
+---
+title: "Organisers & Contact"
+---
+
+# Contact 📇
+
+For enquiries, please email [📧 iris.jiang@mq.edu.au](mailto:iris.jiang@mq.edu.au)
+
+# Organisers
+
+## Dr Iris Jiang, School of Mathematical & Phyiscal Sciences, Macquarie University
+
+![](iris.png){width="30%"}
+
+
+::: {.callout-note collapse="true" appearance="default" icon="true"}
+## Bio of Iris
+
+Iris is a Teaching and Leadership academic in the School of Mathematical and Physical Sciences at Macquarie University. Iris is passionate about promoting data literacy, coding, and programming, and she is dedicated to create transformative learning experiences that extend beyond traditional classroom settings. Iris's goal is to equip students with practical skills that are relevant and applicable in real-world scenarios. Additionally, she is actively practice computational reproducibility using R Markdown/Quarto and Git/GitHub.
+:::
+
+## Dr Thomas Fung, School of Mathematical & Phyiscal Sciences, Macquarie University
+
+![](thomas.jpg){width="30%"}
+
+
+::: {.callout-note collapse="true" appearance="default" icon="true"}
+## Bio of Thomas
+
+Thomas Fung is a Senior Lecturer in Statistics in the School of Mathematical & Physical Sciences at Macquarie University in Sydney. Thomas currently holds the position of Director of Education in the school and Deputy Course Director for BSc. Inspired by the cool hacker Emi Tanaka, Thomas has developed a passion for R4DS and is enthusiastic about offering students a unique learning experience beyond the traditional classroom
+setting and enhancing data literacy within the university community. 
+:::

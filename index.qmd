@@ -1,0 +1,81 @@
+---
+title: "DataViz @ MQ"
+---
+
+# Unlock Your Data Storytelling Potential with the inaugural DataViz Challenge! 💪
+
+Join us for DataViz, our exciting new initiative from **School of Mathematical & Physical Sciences** of Macquarie University — a data visualisation challenge designed to showcase your ability to tackle real-world sustainability challenges through analytical thinking, creative visualisation, and compelling storytelling. **You can participate individually or in teams of up to 5 students. The challenge is open to all current Macquarie University students**.
+
+# Important dates 2024 🚨
+
+|                                             |                       |
+|---------------------------------------------|-----------------------|
+| Thursday 12 September                       | Challenge Launches    |
+| Friday 27 September & Saturday 28 September | Dashboard Masterclass |
+| Sunday 20 October, 23:55pm (ADST)           | Entry Deadline        |
+| Wednesday 30 October                        | All Winners Announced |
+
+# How to Enter 🎫
+
+1. Register at <https://mqedu.qualtrics.com/jfe/form/SV_1TcpY3kDpGZJRno>. 
+    - This includes your RSVP to the Dashboard Masterclass.
+2. Complete your visualisation.
+3. Submit your visualisation to [iris.jiang\@mq.edu.au](mailto:iris.jiang@mq.edu.au) by __Sunday 20 October, 23:55pm (ADST)__. Your message should have a subject line ``DataViz 2024 Entry`` and include a short paragraph (max. 200 words) describing the story you intended to tell.
+
+# 2024 Challenge
+
+Using datasets suggested by the United Nations Datathon or any other publicly available datasets, create a static or interactive dashboard _with **ANY** of your favourite software/packages (Quarto, Shiny, Power BI, Tableau, Excel are just few such examples)_ to tell a story or highlight key insights related to one of the following themes:
+
+-   Climate Change (<https://unstats.un.org/wiki/label/UNDatathon2023/climate-change>)
+-   Digital connectivity (<https://unstats.un.org/wiki/label/UNDatathon2023/digital-connectivity>)
+
+We selected these themes due to their significant impact on achieving the United Nations Sustainable Development Goals (UN SDGs). Climate change is directly linked to Goal #13 (<https://sdgs.un.org/goals/goal13>), which affects the remaining SDGs. Digital connectivity has the potential to accelerate progress towards every single one of the 17 SDGs (<https://www.itu.int/en/mediacentre/backgrounders/Pages/icts-to-achieve-the-united-nations-sustainable-development-goals.aspx>).
+
+# Why focus on the UN SDGs?
+
+Because it is a fantastic opportunity for you to demonstrate that you are prepared to tackle the complexities and challenges facing today’s society.
+
+# Categories and Prizes 🏆
+
+There is a chance to win amazing prizes in two categories:
+
+-   Best Static Visualisation
+-   Best Interactive Visualisation
+
+Prizes will be awarded at both undergraduate and postgraduate levels. To qualify for the postgraduate category, your team must include at least one postgraduate student.
+
+# Judging Criteria 
+
+Our expert judging panel will evaluate entries based on:
+
+-   The story told and insights offered on the chosen theme. Bonus point for linking your story/insights to UN SDG(s).
+
+-   Creativity and aesthetic appeal
+
+-   Effective communication
+
+If we receive enough high-quality entries, we will host a town-hall style ceremony where you or your team can present your masterpiece to the wider university community.
+
+# New to dashboard? No worries. We got you covered.
+
+Over two fully catered days on 27 & 28 September, you'll dive into hands-on masterclass to learn how to create dashboards with Quarto (<https://quarto.org/docs/dashboards/>) and Shiny (<https://shiny.posit.co>). _You will also earn 20 points towards the Global Leadership Program (GLP)_.
+
+We assume you can already analyse and summarise your data in computational notebooks with R and/or Python. This masterclass will then enable you to share your insights or allow others to make their own conclusions in visually appealing dashboards.
+
+For catering purposes, please register to the workshop when you register for DataViz 2024: <https://mqedu.qualtrics.com/jfe/form/SV_1TcpY3kDpGZJRno>.
+
+You can find out more about this masterclass [here](workshop.html). 
+
+# In summary
+
+Don't miss this opportunity to enhance your skills, expand your LinkedIn profile, collect unique R hex stickers along the way, and make a difference -- register now for DataViz 2024!
+
+
+# Acknowledgement 
+
+This event is supported by the Faculty of Science & Engineering (FSE) Teaching Development Grant in 2024.
+
+
+Iris Jiang and Thomas Fung
+
+Organisers of DataViz 2024

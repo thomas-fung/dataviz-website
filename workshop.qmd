@@ -1,0 +1,67 @@
+---
+title: "Dashboard Masterclass 📚"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Hello Quarto & Shiny Dashboard
+
+Over two fully catered days on 27 & 28 September 2024, you'll dive into
+hands-on masterclass to learn how to create dashboards with
+
+-   Quarto (<https://quarto.org/docs/dashboards/>) and
+-   Shiny (<https://shiny.posit.co>).
+
+We assume you can already analyse and summarise your data in
+computational notebooks with R and/or Python. This masterclass will then
+enable you to share your insights or allow others to make their own
+conclusions in visually appealing dashboards.
+
+# Date & Location
+
+|                |
+|----------------|
+| 🗓️ 27 & 28 September, 2024 |
+| 🕘 9am -- 5 pm |
+| 📍 01CC Room 103 on 27 Sep and then 14SCO Room 163 on 28 Sep|
+
+
+
+# Schedule
+
+You can find the tentative schedule below. This is subject to change.
+
+::: panel-tabset
+## 27 Sep
+
+|                |                                           |
+|----------------|-------------------------------------------|
+| 0900 -- 10:30  | Introduction to Dashboards                |
+| 10:30 -- 11:00 | Coffee break ☕️️                           |
+| 11:00 -- 12:30 | Dashboards Components                     |
+| 12:30 -- 13:30 | Lunch 🍕🥤                                |
+| 13:30 -- 15:00 | Theme and Styling                         |
+| 15:00 -- 15:30 | Coffee break 🍵                           |
+| 15:30 -- 17:00 | Parameters, Interactivity, and Deployment |
+
+## 28 Sep
+
+|                |                                           |
+|----------------|-------------------------------------------|
+| 0900 -- 10:30  | Introduction to Shiny                |
+| 10:30 -- 11:00 | Coffee break ☕️️                           |
+| 11:00 -- 12:30 | Reactive Programming                     |
+| 12:30 -- 13:30 | Lunch 🥤 🥪                               |
+| 13:30 -- 15:00 | Modern Uls with `bslib`                         |
+| 15:00 -- 15:30 | Coffee break 🍵                           |
+| 15:30 -- 17:00 | Theming and Deploying |
+:::
+
+# How to join
+
+For catering purposes, please register to the masterclass when you register
+for DataViz 2024:
+<https://mqedu.qualtrics.com/jfe/form/SV_1TcpY3kDpGZJRno>.
+
+Materials will be shared with participants on 26 Sep. 

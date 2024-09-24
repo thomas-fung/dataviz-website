@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 9eba191a-e613-4cca-bc93-5fb1a0bb0943
+      url: 'https://datavizatmq.netlify.app'
