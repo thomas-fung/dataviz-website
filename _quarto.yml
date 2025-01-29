@@ -8,6 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: Previous DataViz
+        menu: 
+          - dataviz2024.qmd
       - href: workshop.qmd
         text: Masterclass
       - href: contact.qmd
