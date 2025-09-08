@@ -41,7 +41,7 @@ Energy access and affordability is strongly connected to Goal #7 (Affordable and
 
 Together, these themes reflect urgent global challenges and highlight the interconnected nature of the SDGs, reinforcing the importance of integrated solutions for a sustainable future.
 
-You can find the winning 2024 entires [here](dataviz2024.html).
+You can find the winning 2024 entries [here](dataviz2024.html).
 
 # Why focus on the UN SDGs?
 
