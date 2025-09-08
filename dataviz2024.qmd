@@ -150,3 +150,7 @@ While the world rapidly evolves through new technology, many in First Nations co
     -   This includes your RSVP to the Dashboard Masterclass.
 2.  Complete your visualisation.
 3.  Submit your visualisation to [iris.jiang\@mq.edu.au](mailto:iris.jiang@mq.edu.au) by **Sunday 20 October, 23:55pm (ADST)**. Your message should have a subject line `DataViz 2024 Entry` and include a short paragraph (max. 200 words) describing the story you intended to tell.
+
+# Acknowledgement
+
+This event is supported by the Faculty of Science & Engineering (FSE) Teaching Development Grant in 2024.

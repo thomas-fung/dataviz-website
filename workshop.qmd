@@ -7,7 +7,7 @@ editor:
 
 # Hello Quarto & Shiny Dashboard
 
-Over two fully catered days on 27 & 28 September 2024, you'll dive into
+Over two fully catered days on 25 & 26 September 2025, you'll dive into
 hands-on masterclass to learn how to create dashboards with
 
 -   Quarto (<https://quarto.org/docs/dashboards/>) and
@@ -22,16 +22,16 @@ conclusions in visually appealing dashboards.
 
 |                                                              |
 |--------------------------------------------------------------|
-| 🗓️ 27 & 28 September, 2024                                   |
+| 🗓️ 25 & 26 September, 2025                                   |
 | 🕘 9am -- 5 pm                                               |
-| 📍 01CC Room 103 on 27 Sep and then 14SCO Room 163 on 28 Sep |
+| 📍 14SCO Room 163  |
 
 # Schedule
 
 You can find the tentative schedule below. This is subject to change.
 
 ::: panel-tabset
-## 27 Sep
+## 25 Sep
 
 |                |                                           |
 |----------------|-------------------------------------------|
@@ -44,7 +44,7 @@ You can find the tentative schedule below. This is subject to change.
 | 15:00 -- 15:30 | Coffee break 🍵                           |
 | 15:30 -- 17:00 | Parameters, Interactivity, and Deployment |
 
-## 28 Sep
+## 26 Sep
 
 |                |                         |
 |----------------|-------------------------|
@@ -61,10 +61,10 @@ You can find the tentative schedule below. This is subject to change.
 # How to join
 
 For catering purposes, please register to the masterclass when you
-register for DataViz 2024:
-<https://mqedu.qualtrics.com/jfe/form/SV_1TcpY3kDpGZJRno>.
+register for DataViz 2025:
+<>.
 
-Materials will be shared with participants on 26 Sep.
+Materials will be shared with participants on 24 Sep.
 
 # Software & Setup
 
@@ -73,7 +73,7 @@ software and setup any accounts you might need for publishing your
 dashboard!
 
 ::: panel-tabset
-## 27 Sep
+## 25 Sep
 
 You will be able to follow along with this masterclass in `R` or in
 `Python`.
@@ -82,27 +82,24 @@ Please see the required software suite for each language below.
 
 ### R
 
--   [R](https://cran.r-project.org): 4.4.1
+-   [R](https://cran.r-project.org): 4.5.1 or later
 
--   [Quarto](https://quarto.org/docs/download/): v1.5
+-   [Quarto](https://quarto.org/docs/download/): v1.8 or later
 
--   [RStudio](https://posit.co/download/rstudio-desktop/): 2024.04.2+764
+-   [RStudio](https://posit.co/download/rstudio-desktop/): 2025.05.1+513 or later
 
 -   Packages:
 
 ```{r}
 #| eval: false
-
-pkg_list <- c(
-  "tidyverse", "gt", "ggthemes", "DT", "here", "paletteer"
-)
-install.packages(pkg_list)
+# install.packages("pak")
+pak::pak(c("tidyverse", "gt", "ggthemes", "DT", "here", "paletteer"))
 ```
 
 ### Python
 
--   [Python](https://www.python.org/downloads/): 3
--   [Quarto](https://quarto.org/docs/download/): v1.5
+-   [Python](https://www.python.org/downloads/): 3 or later
+-   [Quarto](https://quarto.org/docs/download/): v1.8 or later
 -   [VS Code](https://code.visualstudio.com/download) as well as the [VS
     Code Quarto
     Extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto)
@@ -110,7 +107,7 @@ install.packages(pkg_list)
     Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 -   Packages: We recommend `pip install`ing the following packages. If
     you have a different preferred way of managing your environment,
-    you’re welcomed to do so. Just make sure you have these packages
+    you're welcomed to do so. Just make sure you have these packages
     installed in order to be able to follow along with the examples.
 
 ```         
@@ -133,7 +130,7 @@ publishing venues:
 -   [GitHub](https://github.com) only **if you are already** a
     Git/GitHub user
 
-## 28 Sep
+## 26 Sep
 
 TBD
 :::

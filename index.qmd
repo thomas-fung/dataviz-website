@@ -8,10 +8,38 @@ Join us for DataViz, an exciting initiative from **School of Mathematical & Phys
 
 ![2024 DataViz Masterclass  Cohort](image/2024/2024_group.jpeg){fig-align="center"}
 
+# Important dates 2025 🚨
+
+|                                             |                       |
+|---------------------------------------------|-----------------------|
+| Monday 8 September                       | Challenge Launches    |
+| Tuesday 23 September           | Registration Deadline        |
+| Thurdsay 25 September & Friday 26 September | Dashboard Masterclass |
+| __Monday 27 October, 9:00am (ADST)__           | __Entry Deadline__        |
+| Monday 3 November                        | All Winners Announced |
+| Week 13, TBD                        | Showcase & Award Ceremony |
+
+
+# How to Enter 🎫
+
+1. Register at <https://mqedu.qualtrics.com/jfe/form/SV_8IDFaeAnN29KLxI>. 
+    - This includes your RSVP to the Dashboard Masterclass.
+2. Complete your visualisation.
+3. DataViz participants will be added to dedicated community iLearn page for `DataViz 2025`. You or your team can then submit the visualisation along with a short paragraph (max. 200 words) describing the story you intended to tell. We encourage you to be creative and showcase your insights! Submissions are due by __Monday 27 October, 9:00am (ADST)__. 
+
 
 # 2025 Challenge
 
-DataViz will return in the second half of 2025. You can read more about [last year's challenge and its winners](dataviz2024.html).  
+Using datasets suggested by the United Nations Datathon or any other publicly available datasets, create a static or interactive dashboard _with **ANY** of your favourite software/packages (Quarto, Shiny, Power BI, Tableau, Excel are just few such examples)_ to tell a story or highlight key insights related to one of the following themes:
+
+-   Biodiversity loss (<https://unstats.un.org/wiki/label/UNDatathon2023/biodiversity-loss>) and pollution  (<https://unstats.un.org/wiki/label/UNDatathon2023/pollution>)
+-   Energy access and affordability (<https://unstats.un.org/wiki/label/UNDatathon2023/energy>)
+
+We selected these themes due to their profound relevance to achieving the United Nations Sustainable Development Goals (UN SDGs). Biodiversity loss and pollution are directly linked to Goal #15 (Life on Land) and Goal #14 (Life Below Water), as well as Goal #12 (Responsible Consumption and Production), given the critical challenges posed by ecosystem degradation, waste, and environmental contaminants. Addressing biodiversity loss and pollution is essential, as they have cascading impacts on food security, human health, and the resilience of natural systems that underpin all SDGs.
+
+Energy access and affordability is strongly connected to Goal #7 (Affordable and Clean Energy) and underpins progress on multiple goals, including poverty reduction (Goal #1), economic growth (Goal #8), and climate action (Goal #13). Ensuring equitable access to sustainable energy is a cornerstone for inclusive development, particularly as societies transition towards low-carbon futures.
+
+Together, these themes reflect urgent global challenges and highlight the interconnected nature of the SDGs, reinforcing the importance of integrated solutions for a sustainable future.
 
 # Why focus on the UN SDGs?
 
@@ -40,22 +68,22 @@ If we receive enough high-quality entries, we will host a town-hall style ceremo
 
 # New to dashboard? No worries. We got you covered.
 
-Over two fully catered days on 27 & 28 September, you'll dive into hands-on masterclass to learn how to create dashboards with Quarto (<https://quarto.org/docs/dashboards/>) and Shiny (<https://shiny.posit.co>). *You will also earn 20 points towards the Global Leadership Program (GLP)*.
+Over two fully catered days on 25 & 26 September 2025, you'll dive into hands-on masterclass to learn how to create dashboards with Quarto (<https://quarto.org/docs/dashboards/>) and Shiny (<https://shiny.posit.co>). *You will also earn 20 points towards the Global Leadership Program (GLP)*.
 
 We assume you can already analyse and summarise your data in computational notebooks with R and/or Python. This masterclass will then enable you to share your insights or allow others to make their own conclusions in visually appealing dashboards.
 
-For catering purposes, please register to the workshop when you register for DataViz 2024: <https://mqedu.qualtrics.com/jfe/form/SV_1TcpY3kDpGZJRno>.
+For catering purposes, please register to the workshop when you register for DataViz 2025: <https://mqedu.qualtrics.com/jfe/form/SV_8IDFaeAnN29KLxI>.
 
 You can find out more about this masterclass [here](workshop.html).
 
 # In summary
 
-Don't miss this opportunity to enhance your skills, expand your LinkedIn profile, collect unique R hex stickers along the way, and make a difference -- register now for DataViz 2024!
+Don't miss this opportunity to enhance your skills, expand your `LinkedIn` profile, collect unique `R` hex stickers along the way, and make a difference -- register now for DataViz 2025!
 
 # Acknowledgement
 
-This event is supported by the Faculty of Science & Engineering (FSE) Teaching Development Grant in 2024.
+This event is supported by the Faculty of Science & Engineering (FSE). 
 
 Iris Jiang and Thomas Fung
 
-Organisers of DataViz 2024
+Organisers of DataViz

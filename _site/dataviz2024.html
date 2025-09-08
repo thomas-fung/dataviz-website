@@ -156,6 +156,7 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#important-dates-2024" id="toc-important-dates-2024" class="nav-link" data-scroll-target="#important-dates-2024">Important dates 2024 🚨</a></li>
   <li><a href="#how-to-enter" id="toc-how-to-enter" class="nav-link" data-scroll-target="#how-to-enter">How to Enter 🎫</a></li>
+  <li><a href="#acknowledgement" id="toc-acknowledgement" class="nav-link" data-scroll-target="#acknowledgement">Acknowledgement</a></li>
   </ul>
 </nav>
     </div>
@@ -427,6 +428,10 @@ Submission
 <li>Complete your visualisation.</li>
 <li>Submit your visualisation to <a href="mailto:iris.jiang@mq.edu.au">iris.jiang@mq.edu.au</a> by <strong>Sunday 20 October, 23:55pm (ADST)</strong>. Your message should have a subject line <code>DataViz 2024 Entry</code> and include a short paragraph (max. 200 words) describing the story you intended to tell.</li>
 </ol>
+</section>
+<section id="acknowledgement" class="level1">
+<h1>Acknowledgement</h1>
+<p>This event is supported by the Faculty of Science &amp; Engineering (FSE) Teaching Development Grant in 2024.</p>
 
 
 </section>
@@ -666,7 +671,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/datavizatmq\.netlify\.app");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
