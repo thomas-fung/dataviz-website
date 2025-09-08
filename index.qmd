@@ -41,6 +41,8 @@ Energy access and affordability is strongly connected to Goal #7 (Affordable and
 
 Together, these themes reflect urgent global challenges and highlight the interconnected nature of the SDGs, reinforcing the importance of integrated solutions for a sustainable future.
 
+You can find the winning 2024 entires [here](dataviz2024.html).
+
 # Why focus on the UN SDGs?
 
 Because it is a fantastic opportunity for you to demonstrate that you are prepared to tackle the complexities and challenges facing today’s society.
@@ -68,7 +70,7 @@ If we receive enough high-quality entries, we will host a town-hall style ceremo
 
 # New to dashboard? No worries. We got you covered.
 
-Over two fully catered days on 25 & 26 September 2025, you'll dive into hands-on masterclass to learn how to create dashboards with Quarto (<https://quarto.org/docs/dashboards/>) and Shiny (<https://shiny.posit.co>). *You will also earn 20 points towards the Global Leadership Program (GLP)*.
+Over two fully catered days on 25 & 26 September 2025, you'll dive into hands-on masterclass to learn how to create dashboards with Quarto (<https://quarto.org/docs/dashboards/>) and Shiny (<https://shiny.posit.co>). *You may be able earn 20 points towards the Global Leadership Program (GLP) (to be confirmed)*.
 
 We assume you can already analyse and summarise your data in computational notebooks with R and/or Python. This masterclass will then enable you to share your insights or allow others to make their own conclusions in visually appealing dashboards.
 
