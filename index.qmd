@@ -70,7 +70,7 @@ If we receive enough high-quality entries, we will host a town-hall style ceremo
 
 # New to dashboard? No worries. We got you covered.
 
-Over two fully catered days on 25 & 26 September 2025, you'll dive into hands-on masterclass to learn how to create dashboards with Quarto (<https://quarto.org/docs/dashboards/>) and Shiny (<https://shiny.posit.co>). *You may be able earn 20 points towards the Global Leadership Program (GLP) (to be confirmed)*.
+Over two fully catered days on 25 & 26 September 2025, you'll dive into hands-on masterclass to learn how to create dashboards with Quarto (<https://quarto.org/docs/dashboards/>) and Shiny (<https://shiny.posit.co>). *You may be able to earn 20 points towards the Global Leadership Program (GLP) (to be confirmed)*.
 
 We assume you can already analyse and summarise your data in computational notebooks with R and/or Python. This masterclass will then enable you to share your insights or allow others to make their own conclusions in visually appealing dashboards.
 
